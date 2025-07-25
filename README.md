@@ -1,1 +1,1 @@
-# Gemini-API-Integration
+A collection of projects showcasing advanced integrations with Gemini API.The repository includes two key demonstrations: one for building context-aware conversational agents and another for processing and analyzing real-time data streams.
